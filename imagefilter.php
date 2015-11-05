@@ -11,7 +11,7 @@
  * 
  * @authors byron (www.ouropera.net)
  * @date    2015-11-04 11:54:18
- * @version $Id$
+ * @version 1.0
  * 
  */
 
